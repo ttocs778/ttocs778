@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Scott (唐睿)  
+# 👋 Hi, I'm Scott Tang
 
-💻 **Computer Science (Games) Student**  
+💻 **USC Computer Science (Games) Student**  
 🎮 **Aspiring Game Developer**  
-🚀 **Exploring Game Engines, AI, and Networking**  
+🚀 **Exploring Game Engines, Design, and Networking**  
 
 ### 🔹 What I Do  
 - Building **C++ & Unity** game projects  
@@ -10,8 +10,7 @@
 - Exploring **networking & multiplayer systems**  
 
 ### 🔹 What I'm Working On  
-- **C++ SDL Game Projects** (2D & 3D games)  
-- **Unity Multiplayer Games**  
-- **AI & Game Systems**  
+- **Game Engine Learning**
+- **A Top Down Fight Game**  
 
 📫 Reach out if you're into game dev or tech!  
